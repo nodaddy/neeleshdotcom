@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/neeleshdotcom/static/css/main.073c9b0a.css",
-    "main.js": "/neeleshdotcom/static/js/main.d6b9a825.js",
+    "main.css": "/neeleshdotcom/static/css/main.e6fe196b.css",
+    "main.js": "/neeleshdotcom/static/js/main.3e9ebee5.js",
     "static/js/787.39e8909d.chunk.js": "/neeleshdotcom/static/js/787.39e8909d.chunk.js",
-    "static/media/logo.svg": "/neeleshdotcom/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/resume.pdf": "/neeleshdotcom/static/media/resume.90dcb16eb2daf4ef5aa2.pdf",
     "index.html": "/neeleshdotcom/index.html",
-    "main.073c9b0a.css.map": "/neeleshdotcom/static/css/main.073c9b0a.css.map",
-    "main.d6b9a825.js.map": "/neeleshdotcom/static/js/main.d6b9a825.js.map",
+    "main.e6fe196b.css.map": "/neeleshdotcom/static/css/main.e6fe196b.css.map",
+    "main.3e9ebee5.js.map": "/neeleshdotcom/static/js/main.3e9ebee5.js.map",
     "787.39e8909d.chunk.js.map": "/neeleshdotcom/static/js/787.39e8909d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.d6b9a825.js"
+    "static/css/main.e6fe196b.css",
+    "static/js/main.3e9ebee5.js"
   ]
 }
